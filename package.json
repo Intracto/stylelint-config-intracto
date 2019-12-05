@@ -1,18 +1,19 @@
 {
-  "name": "@yulian.alexeyev/stylelint-config-intracto",
-  "version": "0.1.4",
+  "name": "@intracto/stylelint-config-intracto",
+  "version": "0.1.5",
   "description": "StyleLint presets for Intracto internal code and projects",
   "keywords": [
     "stylelint"
   ],
-  "homepage": "https://github.com/ioulian/stylelint-config-intracto",
-  "bugs": "https://github.com/ioulian/stylelint-config-intracto/issues",
-  "main": "scss/index.js",
-  "author": "Yulian Alexeyev <yulian@dev-q.be> (http://dev-q.be/)",
+  "homepage": "https://github.com/Intracto/stylelint-config-intracto",
+  "bugs": "https://github.com/Intracto/stylelint-config-intracto/issues",
+  "main": "js/index.js",
+  "author": "Intracto <info@intracto.com> (https://www.intracto.com/)",
   "contributors": [
     {
-      "name": "Intracto",
-      "url": "https://www.intracto.com/"
+      "name": "Yulian Alexeyev",
+      "url": "http://dev-q.be/",
+      "email": "yulian@dev-q.be"
     }
   ],
   "files": [
