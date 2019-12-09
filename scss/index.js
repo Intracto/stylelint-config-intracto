@@ -17,6 +17,7 @@ module.exports = {
     "function-url-quotes": "always",
     "no-unknown-animations": true,
     "selector-pseudo-element-colon-notation": "double",
-    "shorthand-property-no-redundant-values": true
+    "shorthand-property-no-redundant-values": true,
+    "color-hex-length": "short"
   }
 };
