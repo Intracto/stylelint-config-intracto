@@ -1,4 +1,4 @@
-# stylelint-config-intracto
+# stylelint-config-intracto [![npm version](https://img.shields.io/npm/v/@intracto/stylelint-config-intracto.svg)](https://www.npmjs.com/package/@intracto/stylelint-config-intracto)
 
 ## Introduction
 
