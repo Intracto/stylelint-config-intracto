@@ -7,7 +7,7 @@
   ],
   "homepage": "https://github.com/Intracto/stylelint-config-intracto",
   "bugs": "https://github.com/Intracto/stylelint-config-intracto/issues",
-  "main": "js/index.js",
+  "main": "scss/index.js",
   "author": "Intracto <info@intracto.com> (https://www.intracto.com/)",
   "contributors": [
     {
