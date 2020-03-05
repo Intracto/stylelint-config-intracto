@@ -9,13 +9,6 @@
   "bugs": "https://github.com/Intracto/stylelint-config-intracto/issues",
   "main": "scss/index.js",
   "author": "Intracto <info@intracto.com> (https://www.intracto.com/)",
-  "contributors": [
-    {
-      "name": "Yulian Alexeyev",
-      "url": "http://dev-q.be/",
-      "email": "yulian@dev-q.be"
-    }
-  ],
   "files": [
     "/scss"
   ],
