@@ -15,7 +15,7 @@ yarn global add install-peerdeps
 install-peerdeps --dev "@intracto/stylelint-config-intracto"
 ```
 
-And then create a file `.stylelintrc.json`. Add this config if your codebase is based on SCSS:
+And then configure your [cosmiconfig](https://github.com/davidtheclark/cosmiconfig), e.g. by creating a `.stylelintrc.json` file with the following content:
 
 ```json
 {
