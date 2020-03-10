@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains sample linting configs for, .scss files. Currently they are all based on recommended configs and prettier.
+This repository contains sample linting configs for, .scss files. Currently they are all based on recommended configs.
 
 ## How to use
 
